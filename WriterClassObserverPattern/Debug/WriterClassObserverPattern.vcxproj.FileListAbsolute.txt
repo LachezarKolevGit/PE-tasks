@@ -1,0 +1,2 @@
+D:\codeJourney\WriterClassObserverPattern\Debug\WriterClassObserverPattern.exe
+D:\codeJourney\WriterClassObserverPattern\Debug\WriterClassObserverPattern.pdb
