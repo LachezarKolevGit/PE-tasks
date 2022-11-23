@@ -1,0 +1,2 @@
+D:\codeJourney\lab2FriendFuncGreaterSpeed\Debug\lab2FriendFuncGreaterSpeed.exe
+D:\codeJourney\lab2FriendFuncGreaterSpeed\Debug\lab2FriendFuncGreaterSpeed.pdb
