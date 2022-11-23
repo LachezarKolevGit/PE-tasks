@@ -1,0 +1,2 @@
+D:\codeJourney\socialWorker\Debug\socialWorker.exe
+D:\codeJourney\socialWorker\Debug\socialWorker.pdb
