@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\codeJourney\socialWorker\Source.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+  Worker.cpp
+D:\codeJourney\socialWorker\Worker.cpp(82,10): warning C4018: '<': signed/unsigned mismatch
+D:\codeJourney\socialWorker\Worker.cpp(93,10): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  socialWorker.vcxproj -> D:\codeJourney\socialWorker\Debug\socialWorker.exe
