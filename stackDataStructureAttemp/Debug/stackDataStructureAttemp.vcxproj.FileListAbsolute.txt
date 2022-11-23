@@ -1,0 +1,2 @@
+D:\codeJourney\stackDataStructureAttemp\Debug\stackDataStructureAttemp.exe
+D:\codeJourney\stackDataStructureAttemp\Debug\stackDataStructureAttemp.pdb
