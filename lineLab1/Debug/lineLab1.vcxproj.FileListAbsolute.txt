@@ -1,2 +1,0 @@
-D:\codeJourney\lineLab1\Debug\lineLab1.exe
-D:\codeJourney\lineLab1\Debug\lineLab1.pdb
