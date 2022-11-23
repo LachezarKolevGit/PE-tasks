@@ -1,2 +1,0 @@
-D:\codeJourney\lab1Time\Debug\lab1Time.exe
-D:\codeJourney\lab1Time\Debug\lab1Time.pdb
