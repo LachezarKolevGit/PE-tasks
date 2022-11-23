@@ -14,7 +14,7 @@ Line::Line(int lineLenght) {
 }
 Line::~Line() {
 	system("CLS");
-	std::cout << "destructor madafaka";
+	std::cout << "destructor";
 
 
 }
