@@ -2,7 +2,6 @@
 #include <iostream>
 
 class Time {
-
 public:
 	void printTime();
 	Time();
@@ -12,10 +11,4 @@ private:
 		hours,
 		minutes,
 		seconds;
-
-
-
-
-
 };
-
